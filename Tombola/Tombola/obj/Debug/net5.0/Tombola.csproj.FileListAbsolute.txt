@@ -1,0 +1,16 @@
+C:\Users\AntoniaSacchitella\source\repos\Tombola\Tombola\bin\Debug\net5.0\Tombola.exe
+C:\Users\AntoniaSacchitella\source\repos\Tombola\Tombola\bin\Debug\net5.0\Tombola.deps.json
+C:\Users\AntoniaSacchitella\source\repos\Tombola\Tombola\bin\Debug\net5.0\Tombola.runtimeconfig.json
+C:\Users\AntoniaSacchitella\source\repos\Tombola\Tombola\bin\Debug\net5.0\Tombola.runtimeconfig.dev.json
+C:\Users\AntoniaSacchitella\source\repos\Tombola\Tombola\bin\Debug\net5.0\Tombola.dll
+C:\Users\AntoniaSacchitella\source\repos\Tombola\Tombola\bin\Debug\net5.0\ref\Tombola.dll
+C:\Users\AntoniaSacchitella\source\repos\Tombola\Tombola\bin\Debug\net5.0\Tombola.pdb
+C:\Users\AntoniaSacchitella\source\repos\Tombola\Tombola\obj\Debug\net5.0\Tombola.csprojAssemblyReference.cache
+C:\Users\AntoniaSacchitella\source\repos\Tombola\Tombola\obj\Debug\net5.0\Tombola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\source\repos\Tombola\Tombola\obj\Debug\net5.0\Tombola.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\source\repos\Tombola\Tombola\obj\Debug\net5.0\Tombola.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\source\repos\Tombola\Tombola\obj\Debug\net5.0\Tombola.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\source\repos\Tombola\Tombola\obj\Debug\net5.0\Tombola.dll
+C:\Users\AntoniaSacchitella\source\repos\Tombola\Tombola\obj\Debug\net5.0\ref\Tombola.dll
+C:\Users\AntoniaSacchitella\source\repos\Tombola\Tombola\obj\Debug\net5.0\Tombola.pdb
+C:\Users\AntoniaSacchitella\source\repos\Tombola\Tombola\obj\Debug\net5.0\Tombola.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\AntoniaSacchitella\source\repos\Week1.EsempiDemo\Week1.EsempiDemo\bin\Debug\net5.0\Week1.EsempiDemo.exe
+C:\Users\AntoniaSacchitella\source\repos\Week1.EsempiDemo\Week1.EsempiDemo\bin\Debug\net5.0\Week1.EsempiDemo.deps.json
+C:\Users\AntoniaSacchitella\source\repos\Week1.EsempiDemo\Week1.EsempiDemo\bin\Debug\net5.0\Week1.EsempiDemo.runtimeconfig.json
+C:\Users\AntoniaSacchitella\source\repos\Week1.EsempiDemo\Week1.EsempiDemo\bin\Debug\net5.0\Week1.EsempiDemo.runtimeconfig.dev.json
+C:\Users\AntoniaSacchitella\source\repos\Week1.EsempiDemo\Week1.EsempiDemo\bin\Debug\net5.0\Week1.EsempiDemo.dll
+C:\Users\AntoniaSacchitella\source\repos\Week1.EsempiDemo\Week1.EsempiDemo\bin\Debug\net5.0\ref\Week1.EsempiDemo.dll
+C:\Users\AntoniaSacchitella\source\repos\Week1.EsempiDemo\Week1.EsempiDemo\bin\Debug\net5.0\Week1.EsempiDemo.pdb
+C:\Users\AntoniaSacchitella\source\repos\Week1.EsempiDemo\Week1.EsempiDemo\obj\Debug\net5.0\Week1.EsempiDemo.csprojAssemblyReference.cache
+C:\Users\AntoniaSacchitella\source\repos\Week1.EsempiDemo\Week1.EsempiDemo\obj\Debug\net5.0\Week1.EsempiDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AntoniaSacchitella\source\repos\Week1.EsempiDemo\Week1.EsempiDemo\obj\Debug\net5.0\Week1.EsempiDemo.AssemblyInfoInputs.cache
+C:\Users\AntoniaSacchitella\source\repos\Week1.EsempiDemo\Week1.EsempiDemo\obj\Debug\net5.0\Week1.EsempiDemo.AssemblyInfo.cs
+C:\Users\AntoniaSacchitella\source\repos\Week1.EsempiDemo\Week1.EsempiDemo\obj\Debug\net5.0\Week1.EsempiDemo.csproj.CoreCompileInputs.cache
+C:\Users\AntoniaSacchitella\source\repos\Week1.EsempiDemo\Week1.EsempiDemo\obj\Debug\net5.0\Week1.EsempiDemo.dll
+C:\Users\AntoniaSacchitella\source\repos\Week1.EsempiDemo\Week1.EsempiDemo\obj\Debug\net5.0\ref\Week1.EsempiDemo.dll
+C:\Users\AntoniaSacchitella\source\repos\Week1.EsempiDemo\Week1.EsempiDemo\obj\Debug\net5.0\Week1.EsempiDemo.pdb
+C:\Users\AntoniaSacchitella\source\repos\Week1.EsempiDemo\Week1.EsempiDemo\obj\Debug\net5.0\Week1.EsempiDemo.genruntimeconfig.cache
